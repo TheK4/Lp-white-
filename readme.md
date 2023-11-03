@@ -1,0 +1,1 @@
+Olá, este projeto será focado na construção de uma Landing page. A ideia principal é colocar todo o conhecimento que adquiri até então nessa Lp a fim de ir atualizando conforme aprendo coisas novas e tendo uma base para mostrar minha evolução.   
